@@ -1,5 +1,7 @@
-### Hi there 👋
-fccccchtcjhco
+### Hello I'm Talon
+I'm learning Python because I want to make games because games are cool.
+I guess some games I find particularly cool are Xenoblade Chronicles, Half-Life, Fallout: New Vegas, and a bunch of others, I've been gaming since the day I was born, and I've gone through a lot of franchises.
+I really just don't know much what to put here. This is probably fine, though.
 <!--
 **24howet/24howet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
